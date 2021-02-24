@@ -1,0 +1,8 @@
+{
+    "name": "back-end-ecoliza",
+    "script": "src/index.js",
+    "instances": "2",
+    "env_production" : {
+      "NODE_ENV": "production"
+    }
+  }
